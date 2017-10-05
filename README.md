@@ -1,7 +1,7 @@
 <!-- vscode-markdown-toc -->
-* 1. [L50 - Cloud Front Overview:](#L50-CloudFrontOverview:)
-* 2. [L51 - Create a CDN:](#L51-CreateaCDN:)
-	* 2.1. [Settings: ###](#Settings:)
+* 1. [L50 - Cloud Front Overview:](#L50-CloudFrontOverview)
+* 2. [L51 - Create a CDN:](#L51-CreateaCDN)
+	* 2.1. [Settings: ###](#Settings)
 		* 2.1.1. [Origin Settings ####](#OriginSettings)
 		* 2.1.2. [Default Cache Behavior Settings ####](#DefaultCacheBehaviorSettings)
 * 3. [L52 - S3 - Security & Encryption](#L52-S3-SecurityEncryption)
@@ -193,9 +193,9 @@
 
 # Section 5: S3
 
-##  1. <a name='L50-CloudFrontOverview:'></a>L50 - Cloud Front Overview:
+##  1. <a name='L50-CloudFrontOverview'></a>L50 - Cloud Front Overview:
 
-##  2. <a name='L51-CreateaCDN:'></a>L51 - Create a CDN:
+##  2. <a name='L51-CreateaCDN'></a>L51 - Create a CDN:
 Lab:
 ----
 * Create bucket in a region far away from your current location (other side of the globe)
@@ -214,7 +214,7 @@ Two types of Cloud Front Distributions:
 For lab, let's create a Web distribution.
 There are a lot of settings when creating a CloudFront Distribution.
 > EXAM TIP: Need to know CloudFront at a high level for the exam except for some specific details (which we will go over)
-###  2.1. <a name='Settings:'></a>Settings: ###
+###  2.1. <a name='Settings'></a>Settings: ###
 
 ####  2.1.1. <a name='OriginSettings'></a>Origin Settings ####
 * Origin domain name:
